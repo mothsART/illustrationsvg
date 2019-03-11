@@ -1,0 +1,5 @@
+debian/debhelper-build-stamp
+debian/files
+debian/interactivesvg.debhelper.log
+debian/interactivesvg.substvars
+debian/interactivesvg/

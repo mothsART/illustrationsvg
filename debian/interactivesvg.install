@@ -1,0 +1,19 @@
+campement-paleolitique/campement-paleolitique.desktop  usr/share/applications
+campement-paleolitique/campement-paleolitique          usr/bin/
+campement-paleolitique/favicon.png                     usr/share/applications/interactivesvg/campement-paleolitique
+campement-paleolitique/index.html                      usr/share/applications/interactivesvg/campement-paleolitique
+
+learn-english-fruits/learn-english-fruits.desktop      usr/share/applications
+learn-english-fruits/learn-english-fruits              usr/bin/
+learn-english-fruits/favicon.png                       usr/share/applications/interactivesvg/learn-english-fruits
+learn-english-fruits/index.html                        usr/share/applications/interactivesvg/learn-english-fruits
+
+organes/organes.desktop                                usr/share/applications
+organes/organes                                        usr/bin/
+organes/favicon.png                                    usr/share/applications/interactivesvg/organes
+organes/index.html                                     usr/share/applications/interactivesvg/organes
+
+weather/weather.desktop                                usr/share/applications
+weather/weather                                        usr/bin/
+weather/favicon.png                                    usr/share/applications/interactivesvg/weather
+weather/index.html                                     usr/share/applications/interactivesvg/weather

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Name=Apprendre les fruits en anglais
+Comment=Apprendre les fruits en anglais
+Exec=learn-english-fruits
+Icon=/usr/share/applications/interactivesvg/learn-english-fruits/favicon.png
+Terminal=false
+Type=Application
+Categories=Graphics;Illustration;
+Keywords=svg;interactive;education;fruit;
+Name[fr_FR]=Apprendre les fruits en anglais

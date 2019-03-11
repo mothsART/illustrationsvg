@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Name=Campement-paleolitique
+Comment=Campement Paléolitique
+Exec=campement-paleolitique
+Icon=/usr/share/applications/interactivesvg/campement-paleolitique/favicon.png
+Terminal=false
+Type=Application
+Categories=Graphics;Illustration;
+Keywords=svg;interactive;education;paléolitique;préhistoire;
+Name[fr_FR]=Illustration interactive d'un camp paléolitique
