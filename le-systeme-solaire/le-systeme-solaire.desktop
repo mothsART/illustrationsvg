@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Name=Le système solaire
+Comment=Le système solaire
+Exec=le-systeme-solaire
+Icon=le-systeme-solaire
+Terminal=false
+Type=Application
+Categories=Graphics;Illustration;
+Keywords=svg;interactive;education;soleil;planète;étoile;comète;orbite;mercure;vénus;terre;lune;mars;astéroïde,jupiter;saturne;uranus;neptune;
+Name[fr_FR]=Le système solaire

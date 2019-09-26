@@ -1,19 +1,34 @@
 campement-paleolitique/campement-paleolitique.desktop  usr/share/applications
 campement-paleolitique/campement-paleolitique          usr/bin/
-campement-paleolitique/favicon.png                     usr/share/applications/interactivesvg/campement-paleolitique
+campement-paleolitique/campement-paleolitique.png      usr/share/icons/hicolor/scalable/apps
 campement-paleolitique/index.html                      usr/share/applications/interactivesvg/campement-paleolitique
 
 learn-english-fruits/learn-english-fruits.desktop      usr/share/applications
 learn-english-fruits/learn-english-fruits              usr/bin/
-learn-english-fruits/favicon.png                       usr/share/applications/interactivesvg/learn-english-fruits
+learn-english-fruits/learn-english-fruits.png          usr/share/icons/hicolor/scalable/apps
 learn-english-fruits/index.html                        usr/share/applications/interactivesvg/learn-english-fruits
 
 organes/organes.desktop                                usr/share/applications
 organes/organes                                        usr/bin/
-organes/favicon.png                                    usr/share/applications/interactivesvg/organes
+organes/organes.png                                    usr/share/icons/hicolor/scalable/apps
 organes/index.html                                     usr/share/applications/interactivesvg/organes
 
 weather/weather.desktop                                usr/share/applications
 weather/weather                                        usr/bin/
-weather/favicon.png                                    usr/share/applications/interactivesvg/weather
+weather/weather.png                                    usr/share/icons/hicolor/scalable/apps
 weather/index.html                                     usr/share/applications/interactivesvg/weather
+
+etat-de-la-matiere/etat-de-la-matiere.desktop          usr/share/applications
+etat-de-la-matiere/etat-de-la-matiere                  usr/bin/
+etat-de-la-matiere/etat-de-la-matiere.png              usr/share/icons/hicolor/scalable/apps
+etat-de-la-matiere/index.html                          usr/share/applications/interactivesvg/etat-de-la-matiere
+
+le-systeme-solaire/le-systeme-solaire.desktop          usr/share/applications
+le-systeme-solaire/le-systeme-solaire                  usr/bin/
+le-systeme-solaire/le-systeme-solaire.png              usr/share/icons/hicolor/scalable/apps
+le-systeme-solaire/index.html                          usr/share/applications/interactivesvg/le-systeme-solaire
+
+les-saisons/les-saisons.desktop                        usr/share/applications
+les-saisons/les-saisons                                usr/bin/
+les-saisons/les-saisons.png                            usr/share/icons/hicolor/scalable/apps
+les-saisons/index.html                                 usr/share/applications/interactivesvg/les-saisons

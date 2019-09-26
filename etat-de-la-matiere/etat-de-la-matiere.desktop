@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Name=etat-de-la-matiere
+Comment=Les états de la matière
+Exec=etat-de-la-matiere
+Icon=etat-de-la-matiere
+Terminal=false
+Type=Application
+Categories=Graphics;Illustration;
+Keywords=svg;interactive;education;matière;solide;liquide;gazeux;
+Name[fr_FR]=etat-de-la-matiere

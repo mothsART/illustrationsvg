@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=0.1
+Name=Les 4 saisons
+Comment=Les 4 saisons
+Exec=les-saisons
+Icon=les-saisons
+Terminal=false
+Type=Application
+Categories=Graphics;Illustration;
+Keywords=svg;interactive;education;saison;hiver;automne;été;printemps;
+Name[fr_FR]=Les 4 saisons
